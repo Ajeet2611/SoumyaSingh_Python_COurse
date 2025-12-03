@@ -1,0 +1,5 @@
+print ("Hello\tWorld\n Welcome\tto\tPython\tEscape\tSequences")
+print ("This is backslash:\\")
+print ("This is single quote:\'")
+print ("This is double quote:\"")
+print("Ajeet\\kumar ")
