@@ -1,0 +1,6 @@
+#creat a tuple of marks(87,64,33,95,76) and print the hightest and lowest marks using max() and min()
+marks = (87,64,33,95,76)
+print("marks tuple: ",marks)
+print("highest masks in the tuple: ",max(marks))
+print("lowest marks in the tuple :", min(marks))
+print("lenth of the marks of tuple: ",len(marks))
