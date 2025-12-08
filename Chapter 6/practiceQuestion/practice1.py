@@ -18,3 +18,4 @@ print("Out of while loop")
 print("Question 2 solved")
 print("---------------------------------------------------")
 
+print("solved")
